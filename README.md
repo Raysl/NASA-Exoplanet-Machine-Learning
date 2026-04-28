@@ -23,17 +23,13 @@ Using data from the NASA Exoplanet Archive, planets are clustered based on radiu
 
 ## Files
 
-- `exoplanet_clustering.ipynb` : full notebook
-- `data/` : cleaned dataset
-- `figures/` : plots used in report
-- `report.pdf` : final report
+- `exoplanet_clustering_finalversion.ipynb` : final version notebook
+- `exoplanet_clustering_initialversion.ipynb` : initial version notebook
+- `PS_2026.04.27_17.30.53.csv` : cleaned dataset used for final version
+- `PS_2026.04.01_18.53.37.csv` : cleaned dataset used for initial version
+
 
 ## Dataset Source
 
 NASA Exoplanet Archive:
 https://exoplanetarchive.ipac.caltech.edu/
-
-## Author
-
-Your Name
-University of Michigan
